@@ -30,4 +30,4 @@ Aber er ist eins nicht: Langweilig und angepasst. Man muss sich auch leicht trau
 Ich würde ihn aber keinesfalls vor einem Date, einem Meeting oder einem Essen verwenden. 
 Dazu ist er einfach zu sehr dominant und es kann durchaus sein, dass man damit dem einem oder der anderen auf
 die Füsse tritt und das muss man sich im Vorfeld gut überlegen.
-<a href="../../assets/lou_de_pre_golden_safran.out.jpg"><img src="../../assets/lou_de_pre_golden_safran.out.jpg" width="25%"></a>
+<a href="../../assets/lou_de_pre_golden_safran.out.jpg"><img src="../assets/lou_de_pre_golden_safran.out.jpg" alt="Lou de Pre - Golden Safran" width="25%"></a>
